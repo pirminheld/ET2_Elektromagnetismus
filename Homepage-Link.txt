@@ -1,0 +1,3 @@
+Kurzlink: https://t1p.de/i8o65
+Homepage: https://pirminheld.github.io/ET2_Elektromagnetismus/
+Repository: https://github.com/pirminheld/ET2_Elektromagnetismus
